@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    height: 70px;
+    background-color: bisque;
+    text-align: center;
+    padding-top: 30px;
+    margin-bottom: 10px;
+
+}
+
+.header {
+    height: 120px;
+    background-color: bisque;
+    text-align: center;
+    padding-top: 60px;
+    margin-bottom: 10px;
+}
+
+.wrapper {
+    overflow: hidden;
+    height: 30px;
+    margin-bottom: 10px;
+    
+}
+
+.nav {
+    height: 100%;
+    width: 20%;
+    text-align: center;
+    float: left;
+    margin-right: 10px;
+    padding-top: 10px;
+    background-color: bisque;
+}
+
+.nav1 {
+    height: 100%;
+    width: 25%;
+    text-align: center;
+    float: left;
+    margin-right: 10px;
+    padding-top: 10px;
+    background-color: bisque;
+}
+
+.nav2 {
+    height: 100%;
+    width: 25%;
+    text-align: center;
+    float: right;
+    margin-left: 10px;
+    padding-top: 10px;
+    background-color: bisque;
+}
+
+.nav3 {
+    height: 100%;
+    width: 25%;
+    text-align: center;
+    float: right;
+    padding-top: 10px;
+    background-color: bisque;
+}
+
+.container {
+    overflow: hidden;
+    height: 500px;
+    margin-bottom: 10px;
+}
+
+.about {
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    float: left;
+    padding-top: 250px;
+    background-color: bisque;
+    padding-right: 10px;
+}
+
+.subcontener {
+    
+    width: 40%;
+    height: 100%;
+    float: right;
+    
+    
+   
+}
+
+.quicklibk1 {
+    height: 26%;
+    margin-bottom: 5px;
+    background-color: bisque;
+    text-align: center;
+    padding-top: 150px;
+
+    
+}
+
+.quicklibk2 {
+    height: 53%;
+    margin-top: 5px;
+    background-color: bisque;
+    text-align: center;
+    padding-top: 100px;
+    
+
+
+}
+
+.footer {
+    height: 50px;
+    background-color: bisque;
+    text-align: center;
+    padding-top: 20px;
+}
